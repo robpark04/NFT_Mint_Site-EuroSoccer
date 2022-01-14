@@ -1,15 +1,6 @@
-# Basic Sample Hardhat Project
+# Euro Soccer NFT Minting Website
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+![image](https://user-images.githubusercontent.com/94480152/149447651-0757f23c-a419-4aa2-83ae-5191c0e23767.png)
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+You can just fork this NFT minting site for better your own.
+Rob Park
